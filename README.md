@@ -1,4 +1,5 @@
 Description
+
 Poll Questioner Web App is a simple and interactive web application for creating and managing polls. Users can create new polls with multiple-choice questions, participate in existing polls, and view the results in real-time. The app is built using Django, a Python framework for building web applications.
 
 Features
